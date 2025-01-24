@@ -1,4 +1,4 @@
-# Social Media Insights for Business Growth 🚀
+# Social Media Insights for Business Growth 🚀 Business Insight Generator 🔍
 
 ## Overview 📊
 This project utilizes Reddit data to provide actionable business insights. By analyzing user engagement across various subreddits, businesses can refine content strategies, improve marketing, and boost audience engagement.
